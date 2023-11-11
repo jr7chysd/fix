@@ -1,0 +1,15 @@
+# reject rules
+
+# weibo adblock rules
+DOMAIN, wbapp.uve.weibo.com
+DOMAIN, sdkapp.uve.weibo.com
+DOMAIN, sdkmonitor.biz.weibo.com
+DOMAIN, sdkaction.biz.weibo.com
+DOMAIN, bootpreload.uve.weibo.com
+DOMAIN, adstrategy.biz.weibo.com
+DOMAIN-SUFFIX, ad.us.sinaimg.cn
+
+DOMAIN-KEYWORD, baichuan-sdk
+DOMAIN-KEYWORD, sdkclick
+DOMAIN-KEYWORD, adashxgc
+DOMAIN-KEYWORD, adashbc
