@@ -1,5 +1,5 @@
-#!name=combo.sgmodule
-#!desc=spotify,youtube,ads
+#!name=Module Combos
+#!desc=Spotify, Youtube, Adblock, etc
 
 [MITM]
 hostname = %APPEND% spclient.wg.spotify.com, youtubei.googleapis.com, api-access.pangolin-sdk-toutiao.com, is.snssdk.com, mi.gdt.qq.com, open.e.kuaishou.com
