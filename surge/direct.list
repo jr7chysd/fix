@@ -7,3 +7,7 @@ IP-CIDR6,fe80::/10,DIRECT,no-resolve
 # fixing weibo adblock rules
 DOMAIN-KEYWORD, sinaimg.cn, DIRECT
 DOMAIN, api.weibo.cn, DIRECT
+
+# fix infuse alist using aliyun disk
+DOMAIN, bugsnag.com, DIRECT
+DOMAIN, flurry.com, DIRECT
